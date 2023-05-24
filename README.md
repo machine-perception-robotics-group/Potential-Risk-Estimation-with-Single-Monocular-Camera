@@ -16,4 +16,4 @@ url={https://openreview.net/forum?id=Cy5L2hPx38}
 ```
 
 # License
-The license shall conform to the Cityscapes[[License](https://www.cityscapes-dataset.com/)] license
+The license shall conform to the Cityscapes[[License](https://www.cityscapes-dataset.com/)]
